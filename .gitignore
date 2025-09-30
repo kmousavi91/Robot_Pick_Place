@@ -1,0 +1,26 @@
+# Python Caches
+__pycache__/
+*.pyc
+*.pyd
+.ipynb_checkpoints
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+
+# Logs and Outputs
+*.log
+logs/
+
+# Ultralytics Cache/Settings
+/tmp/Ultralytics/
+.config/Ultralytics/
+
+# Conda/Mamba files (if you didn't delete them)
+mambaforge/
+anaconda3/
+.cache/
