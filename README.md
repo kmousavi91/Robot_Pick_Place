@@ -177,17 +177,4 @@ This is the **core intelligence loop** behind warehouse robots, industrial manip
 * 🏃‍♂️ Implement trajectory planning for smoother movements
 * 📊 Build a dashboard to visualize detections and robot state
 
----
 
-## 📜 Summary
-
-This project is a foundational demonstration of how **AI and robotics** work together. It integrates computer vision, decision-making, and robotic control into one continuous loop — the essence of any autonomous robotic system.
-
-With this project, you demonstrate practical skills in:
-
-* Deep learning and real-time vision (YOLOv8, OpenCV)
-* Robotics integration and control logic
-* Microservice-based robot control (FastAPI)
-* End-to-end AI system design
-
-It’s an excellent portfolio project for applying to **robotics companies and AI startups**, showing that you understand not only machine learning but also how to embed it into autonomous robotic systems.
